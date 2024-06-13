@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Shrink Star
+  - Canon Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - Gate
+  - EnemyBlock
+  - Bullet
+  - Player
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3323601707
+    locked: 0
+  - name: background Glumiant
+    uniqueID: 3770426169
+    locked: 0
+  - name: walls
+    uniqueID: 1040513843
+    locked: 0
+  - name: Player
+    uniqueID: 3979578375
+    locked: 0
+  - name: Monsters
+    uniqueID: 722690137
+    locked: 0
+  - name: objects in front
+    uniqueID: 3719719623
+    locked: 0
+  - name: foreground
+    uniqueID: 4268295989
+    locked: 0
+  - name: FX
+    uniqueID: 3086801327
+    locked: 0
+  - name: UI
+    uniqueID: 1770569137
+    locked: 0
